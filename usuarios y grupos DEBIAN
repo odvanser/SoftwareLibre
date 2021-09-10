@@ -1,0 +1,4 @@
+//creacion de  usuario por ejemplo usuario UGB01
+useradd  UGB01
+//ver si  usuario fue creado 
+cat  /cat/p
