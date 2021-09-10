@@ -1,4 +1,8 @@
-//creacion de  usuario por ejemplo usuario UGB01
-useradd  UGB01
-//ver si  usuario fue creado 
-cat  /cat/p
+//creacion de  usuario por ejemplo usuario josue
+useradd  josue
+//ver si  usuario fue creado
+cat /etc/passwd
+//creracion de grupo. por ejemplo grupo casa
+groupadd casa
+//ver si el  grupo fue creado
+cat /etc/group
